@@ -1,3 +1,4 @@
+#Analizador de Sentimientos
 from textblob import TextBlob
 from googletrans import Translator
 class Polarity:
